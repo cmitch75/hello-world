@@ -1,4 +1,4 @@
 # hello-world
 This is a test project so I can learn GitHub
 
-My name is Calen Mitchell, and this is meant to see who I am.
+I just wanted to test this out and see how things work as far as github.
